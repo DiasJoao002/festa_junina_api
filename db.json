@@ -1,0 +1,36 @@
+{
+  "eventos": [
+    {
+      "id": 1,
+      "titulo": "Quadrilha",
+      "descricao": "Uma das principais atrações da festa junina, com dança e música típica.",
+      "data": "24 de Junho",
+      "horario": "20:00",
+      "localizacao": "Palco Principal"
+    },
+    {
+      "id": 2,
+      "titulo": "Barracas de Comida",
+      "descricao": "Barracas vendendo comidas típicas como milho, pamonha, quentão, e mais.",
+      "data": "Todos os dias",
+      "horario": "18:00 - 23:00",
+      "localizacao": "Praça de Alimentação"
+    },
+    {
+      "id": 3,
+      "titulo": "Fogueira",
+      "descricao": "Uma grande fogueira para esquentar a noite e reunir os participantes.",
+      "data": "24 de Junho",
+      "horario": "21:00",
+      "localizacao": "Centro da Festa"
+    },
+    {
+      "id": 4,
+      "titulo": "Correio Elegante",
+      "descricao": "Envie mensagens anônimas e carinhosas para alguém especial durante a festa.",
+      "data": "Todos os dias",
+      "horario": "18:00 - 22:00",
+      "localizacao": "Ponto de Encontro"
+    }
+  ],
+}
