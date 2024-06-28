@@ -4,32 +4,71 @@
       "id": 1,
       "titulo": "Quadrilha",
       "descricao": "Uma das principais atrações da festa junina, com dança e música típica.",
-      "data": "24 de Junho",
+      "data": "03 de Julho",
       "horario": "20:00",
       "localizacao": "Palco Principal"},
-  
     {
       "id": 2,
       "titulo": "Barracas de Comida",
       "descricao": "Barracas vendendo comidas típicas como milho, pamonha, quentão, e mais.",
       "data": "Todos os dias",
-      "horario": "18:00 - 23:00",
+      "horario": "16:00 - 21:00",
       "localizacao": "Praça de Alimentação"},
-  
     {
       "id": 3,
-      "titulo": "Fogueira",
-      "descricao": "Uma grande fogueira para esquentar a noite e reunir os participantes.",
-      "data": "24 de Junho",
-      "horario": "21:00",
-      "localizacao": "Centro da Festa" },
-   
+      "titulo": "Shows Musicais",
+      "descricao": "Apresentações de bandas regionais tocando músicas típicas, forró e sertanejo.",
+      "data": "Todos os dias",
+      "horario": "18:00 - 21:00",
+      "localizacao": "Palco Secundário"},
     {
       "id": 4,
+      "titulo": "Fogueira",
+      "descricao": "Uma grande fogueira para esquentar a noite e reunir os participantes.",
+      "data": "04 de Julho",
+      "horario": "20:00",
+      "localizacao": "Centro da Festa"},
+    {
+      "id": 5,
       "titulo": "Correio Elegante",
       "descricao": "Envie mensagens anônimas e carinhosas para alguém especial durante a festa.",
       "data": "Todos os dias",
-      "horario": "18:00 - 22:00",
-      "localizacao": "Ponto de Encontro"}
+      "horario": "17:00 - 21:00",
+      "localizacao": "Ponto de Encontro"},
+    {
+      "id": 6,
+      "titulo": "Concurso de Fantasias Caipiras",
+      "descricao": "Desfile e premiação das melhores fantasias caipiras.",
+      "data": "02 de Junho",
+      "horario": "19:00",
+      "localizacao": "Palco Principal"},
+    {
+      "id": 7,
+      "titulo": "Bingo",
+      "descricao": "Participe do nosso bingo junino e concorra a prêmios especiais.",
+      "data": "03 de Junho",
+      "horario": "19:00",
+      "localizacao": "Tenda de Jogos"},
+    {
+      "id": 8,
+      "titulo": "Pescaria",
+      "descricao": "Teste sua sorte na pescaria e ganhe prêmios divertidos.",
+      "data": "Todos os dias",
+      "horario": "17:00 - 21:00",
+      "localizacao": "Área de Brincadeiras"},
+    {
+      "id": 9,
+      "titulo": "Casamento na Roça",
+      "descricao": "Encenação do tradicional casamento caipira, com muita diversão e humor.",
+      "data": "05 de Julho",
+      "horario": "20:00",
+      "localizacao": "Palco Principal"},
+    {
+      "id": 10,
+      "titulo": "Gincana Junina",
+      "descricao": "Participe de diversas brincadeiras e desafios típicos de festa junina.",
+      "data": "02 e 03 de Junho",
+      "horario": "16:00 - 18:00",
+      "localizacao": "Campo de Gincanas"}
   ]
 }
